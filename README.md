@@ -1,1 +1,1 @@
-# xschem_project1
+# xschem_project
