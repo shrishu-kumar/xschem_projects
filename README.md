@@ -11,3 +11,8 @@ CMOS INVERTER Design and Noise Margin Analysis :
 
 ![INV_schematic](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inverter%20schematic.jpg)
 
+## Designing a Inverter Symbol
+![Inv_symbol](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inverter_symbol.jpg)
+
+## INverter_dc_analysis_spice 
+[Spice code](https://github.com/shrishu-kumar/xschem_pr1/blob/main/CMOS_INVERTER_P1/INV_test.spice)
