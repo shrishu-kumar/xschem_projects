@@ -18,7 +18,7 @@ Making a symbol : It will help us use the circuit again and again by just using 
 
 ![Inv_symbol](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inverter_symbol.jpg)
 
-## INverter_dc_analysis 
+## Inverter_dc_analysis 
 
 **Netlist of the schematic**
 [Spice code](https://github.com/shrishu-kumar/xschem_pr1/blob/main/CMOS_INVERTER_P1/INV_test.spice)
