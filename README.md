@@ -7,5 +7,5 @@
 
 ## Cmos inverter schematic 
 
-![IMG-20240421-WA0010](https://github.com/shrishu-kumar/xschem_pr1/assets/122399900/355c1efd-f502-4822-b1ab-faad63070e57)
+![INV_schematic](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inverter%20schematic.jpg)
 
