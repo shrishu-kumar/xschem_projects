@@ -10,17 +10,29 @@ CMOS INVERTER Design and Noise Margin Analysis :
 ## Cmos inverter schematic 
 Designing a schematic using pmos and nmos and some input and output pins 
 _reference PDK : SKYWATER-130_ 
+
 ![INV_schematic](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inverter%20schematic.jpg)
 
 ## Designing a Inverter Symbol
 Making a symbol : It will help us use the circuit again and again by just using the symbol.
+
 ![Inv_symbol](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inverter_symbol.jpg)
 
-## INverter_dc_analysis_spice 
-- Netlist of the schematic 
+## INverter_dc_analysis 
+
+**Netlist of the schematic**
+
 [Spice code](https://github.com/shrishu-kumar/xschem_pr1/blob/main/CMOS_INVERTER_P1/INV_test.spice)
 
--**Inverter_dc_analysis_schematic**
+**Inverter_dc_analysis_schematic**
+
 ![dc_analysis_schematic](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inv_Dc%20analysis.jpg)
 
+**Inverter_Ngspice_output**
+
+![spice output](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/inv_dc_analysis_spice_output.jpg)
+
+**Dc_analysis_output_curve**
+
+![DC analysis curve](https://github.com/shrishu-kumar/xschem_pr1/blob/main/inv_screenshots/dc_analysis_curve.jpg)
 
